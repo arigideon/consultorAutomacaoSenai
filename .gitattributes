@@ -1,0 +1,3 @@
+# Arquivos binarios: sem conversao de fim de linha
+*.pbix binary
+*.pdf binary
